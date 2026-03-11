@@ -1,7 +1,4 @@
 # justloan-excel-dashboard
-# Loan Application Analytics Dashboard (Excel)
-
-![Dashboard Preview](images/dashboard-preview.png)
 
 **📌 Project Overview**
 
