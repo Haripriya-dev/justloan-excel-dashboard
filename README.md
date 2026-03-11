@@ -63,7 +63,7 @@ Financial teams require clear visibility into loan application trends and borrow
 
 - Interactive filtering enables rapid analysis across multiple business dimensions, improving decision visibility.
 
-** 💡 Dashboard Highlights**
+**💡 Dashboard Highlights**
 
 -Executive-style KPI metrics
 
